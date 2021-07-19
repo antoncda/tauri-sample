@@ -1,0 +1,2 @@
+Icon creation:
+place an image file named "app-icon.png" in the project root folder and run "yarn tauri icon" and icons will be generated in default icons folder
